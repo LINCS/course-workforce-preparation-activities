@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="82" moduleid="6306" modulename="questionnaire" contextid="24986">
+  <questionnaire id="82">
+    <course>168</course>
+    <name>Transitions Integrations Framework (TIF) and Resources  Reflection Questions</name>
+    <intro>&lt;p&gt;Once you've complete the questionnaire continue on to Guide to ELA Classroom Activities that Promote Life Skills, College, and Career Readiness or click the link on the left side navigation. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>0</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>1</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>82</sid>
+    <timemodified>1490904927</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="82">
+        <name>Transitions Integrations Framework (TIF) and Resources  Reflection Questions</name>
+        <owner>168</owner>
+        <realm>public</realm>
+        <status>0</status>
+        <title>Transitions Integrations Framework (TIF) and Resources  Reflection Questions</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info>&lt;p&gt;When you have answered all the questions in the questionnaire, click submit &amp;gt; continue, so you may view your responses and print them. &lt;/p&gt;
+&lt;p&gt;Once you have reviewed and printed your responses, continue on to Guide to ELA Classroom Activities that Promote Life Skills, College, and Career Readiness or click the link on the left side navigation. &lt;/p&gt;</info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head></thank_head>
+        <thank_body></thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="1117">
+            <survey_id>82</survey_id>
+            <name>Question 1</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>&lt;p&gt;List the Six Skill Categories &lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="1118">
+            <survey_id>82</survey_id>
+            <name>Question 2</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>2</position>
+            <content>&lt;p&gt;Choose three skills and subskills and review the sample activities to review. Notice that for each skill, three versions of an activity are offered to reflect an increasing level of complexity. Which level of complexity would be most appropriate for your students?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="1119">
+            <survey_id>82</survey_id>
+            <name>Question 3</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>3</position>
+            <content>&lt;p&gt;Notice that each activity offers a suggestion for how it would be applied in three different contexts – community, school, work. What are some community, school, and work scenarios that would be relevant for your students?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <attempts>
+    </attempts>
+  </questionnaire>
+</activity>

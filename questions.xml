@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="237">
+    <name>Default for Quiz: Comprehension Check</name>
+    <contextid>24979</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>6299</contextinstanceid>
+    <info>The default category for questions shared in context 'Quiz: Comprehension Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+170522201521+Lgkp6y</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="238">
+    <name>Default for Workforce Preparation Activities</name>
+    <contextid>24763</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>168</contextinstanceid>
+    <info>The default category for questions shared in context 'Workforce Preparation Activities'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+170522201521+4V1yxD</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="1496">
+        <parent>0</parent>
+        <name>Question 1 of 5</name>
+        <questiontext>&lt;p&gt;You have been asked to evaluate the curriculum for an ABE class to determine whether it effectively integrates the workforce preparation activities outlined in WIOA.&lt;/p&gt;
+&lt;p&gt;Which of the following describe workforce preparation activities?&lt;/p&gt;
+&lt;p class="Prompt"&gt;Select all that apply.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="ScreenNumber"&gt;The correct answers are B, C, and D. Choices A and E describe occupational skills training. As discussed earlier, at their core, workforce preparation activities address general, transferable skills that cut across all industry sectors, technical occupations and career clusters (A is eliminated). While input from business and industry could be helpful to illustrate how workforce preparation skills are applied in the workplace, this sort of input is not required to teach general workforce preparation skills (E is eliminated). &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170711153926+kqdXN2</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170728190421+EBCqHh</version>
+        <hidden>0</hidden>
+        <timecreated>1499787566</timecreated>
+        <timemodified>1501268661</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4683">
+              <answertext>&lt;p&gt;Instruction aimed at teaching the competencies and knowledge needed to attain employment and career advancement in a &lt;em&gt;specific&lt;/em&gt; occupation or occupational cluster&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;The correct answers are B, C, and D. Choices A and E describe occupational skills training. As discussed earlier, at their core, workforce preparation activities address general, transferable skills that cut across all industry sectors, technical occupations and career clusters (A is eliminated). While input from business and industry could be helpful to illustrate how workforce preparation skills are applied in the workplace, this sort of input is not required to teach general workforce preparation skills (E is eliminated).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4684">
+              <answertext>&lt;p&gt;Skills and competencies that are general and transferable to a variety of occupations&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback>&lt;p&gt;The correct answers are B, C, and D. Choices A and E describe occupational skills training. As discussed earlier, at their core, workforce preparation activities address general, transferable skills that cut across all industry sectors, technical occupations and career clusters (A is eliminated). While input from business and industry could be helpful to illustrate how workforce preparation skills are applied in the workplace, this sort of input is not required to teach general workforce preparation skills (E is eliminated).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4685">
+              <answertext>&lt;p&gt;Cross-cutting skills that are vital to success in education, work, and daily life&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback>&lt;p&gt;The correct answers are B, C, and D. Choices A and E describe occupational skills training. As discussed earlier, at their core, workforce preparation activities address general, transferable skills that cut across all industry sectors, technical occupations and career clusters (A is eliminated). While input from business and industry could be helpful to illustrate how workforce preparation skills are applied in the workplace, this sort of input is not required to teach general workforce preparation skills (E is eliminated).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4686">
+              <answertext>&lt;p&gt;Meant to be integrated into &lt;em&gt;all&lt;/em&gt; adult education services, regardless of whether the programming is designed to prepare students for a specific occupation or career pathway&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback>&lt;p&gt;The correct answers are B, C, and D. Choices A and E describe occupational skills training. As discussed earlier, at their core, workforce preparation activities address general, transferable skills that cut across all industry sectors, technical occupations and career clusters (A is eliminated). While input from business and industry could be helpful to illustrate how workforce preparation skills are applied in the workplace, this sort of input is not required to teach general workforce preparation skills (E is eliminated).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4687">
+              <answertext>&lt;p&gt;Requires input from business and industry to define the skills and competencies required for a specific career and occupational pathway&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;The correct answers are B, C, and D. Choices A and E describe occupational skills training. As discussed earlier, at their core, workforce preparation activities address general, transferable skills that cut across all industry sectors, technical occupations and career clusters (A is eliminated). While input from business and industry could be helpful to illustrate how workforce preparation skills are applied in the workplace, this sort of input is not required to teach general workforce preparation skills (E is eliminated).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="840">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1497">
+        <parent>0</parent>
+        <name>Question 2 of 5</name>
+        <questiontext>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Read the following classroom activity description to identify the combination of workforce preparation activities that are the focus of the activity.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;The teacher assists the class to generate a set of criteria for evaluating the validity of websites and content. He asks:&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;How do you know that information you found on a website is valid and credible?&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;What do you look for as clues?&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Entering key words for an occupation they are interested in, students choose three websites to evaluate against the validity criteria the class established earlier. &lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Select the combination of workforce preparation activities you feel best fits the scenario.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, digital literacy and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students are using digital literacy skill directly to research occupations and are using digital literacy and critical thinking skills to evaluate the validity of the information. While students are using information through this activity, it’s not apparent from the description that they are working together to research and evaluate the information.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170711154222+nTbMDN</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170815125725+2hKFOb</version>
+        <hidden>0</hidden>
+        <timecreated>1499787742</timecreated>
+        <timemodified>1502801845</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4688">
+              <answertext>&lt;p&gt;basic academic and self-management&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, digital literacy and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students are using digital literacy skill directly to research occupations and are using digital literacy and critical thinking skills to evaluate the validity of the information. While students are using information through this activity, it’s not apparent from the description that they are working together to research and evaluate the information.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4689">
+              <answertext>&lt;p&gt;critical thinking and understanding systems&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, digital literacy and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students are using digital literacy skill directly to research occupations and are using digital literacy and critical thinking skills to evaluate the validity of the information. While students are using information through this activity, it’s not apparent from the description that they are working together to research and evaluate the information.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4690">
+              <answertext>&lt;p&gt;digital literacy and critical thinking&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, digital literacy and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students are using digital literacy skill directly to research occupations and are using digital literacy and critical thinking skills to evaluate the validity of the information. While students are using information through this activity, it’s not apparent from the description that they are working together to research and evaluate the information.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4691">
+              <answertext>&lt;p&gt;self-management and utilizing resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, digital literacy and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students are using digital literacy skill directly to research occupations and are using digital literacy and critical thinking skills to evaluate the validity of the information. While students are using information through this activity, it’s not apparent from the description that they are working together to research and evaluate the information.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4692">
+              <answertext>&lt;p&gt;using information and working with others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, digital literacy and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students are using digital literacy skill directly to research occupations and are using digital literacy and critical thinking skills to evaluate the validity of the information. While students are using information through this activity, it’s not apparent from the description that they are working together to research and evaluate the information.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="841">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1498">
+        <parent>0</parent>
+        <name>Question 3 of 5</name>
+        <questiontext>&lt;p&gt;Read the following classroom activity description to identify the combination of workforce preparation activities that are the focus of the activity.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;The teacher facilitates a force-field analysis exercise. Students are asked to identify an educational goal that they’d like to meet in the next three to six months. Using a T chart, students list the factors (e.g., people, circumstances) that can support their progress towards the goal. Then they list the factors that may hinder their progress towards the goal.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;In pairs or small groups, students share their charts. They identify the two most commonly mentioned barriers and discuss possible solutions. Similarly, they discuss how they can make best use of their supports.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;Select the combination of workforce preparation activities you feel best fits the scenario.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, self-management, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, self-management skills are addressed as students articulate a learning goal and reflect on their individual barriers and supports. They use a T chart to categorize and analyze their situational factors and discuss how they can use supports (resources).&lt;/p&gt;
+&lt;p class="Feedback"&gt;The students are using critical thinking skills to categorize and analyze their barriers and supports, but there is no indication that digital literacy skills are practiced in this activity. While students are working with others, the activity doesn’t reference the application of specific academic skills.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170711154516+ePxpXA</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170815125602+j4bc4V</version>
+        <hidden>0</hidden>
+        <timecreated>1499787916</timecreated>
+        <timemodified>1502801762</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4693">
+              <answertext>&lt;p&gt;basic academic and self-management&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, self-management, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, self-management skills are addressed as students articulate a learning goal and reflect on their individual barriers and supports. They use a T chart to categorize and analyze their situational factors and discuss how they can use supports (resources).&lt;/p&gt;
+&lt;p class="Feedback"&gt;The students are using critical thinking skills to categorize and analyze their barriers and supports, but there is no indication that digital literacy skills are practiced in this activity. While students are working with others, the activity doesn’t reference the application of specific academic skills.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4694">
+              <answertext>&lt;p&gt;critical thinking and digital literacy&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, self-management, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, self-management skills are addressed as students articulate a learning goal and reflect on their individual barriers and supports. They use a T chart to categorize and analyze their situational factors and discuss how they can use supports (resources).&lt;/p&gt;
+&lt;p class="Feedback"&gt;The students are using critical thinking skills to categorize and analyze their barriers and supports, but there is no indication that digital literacy skills are practiced in this activity. While students are working with others, the activity doesn’t reference the application of specific academic skills.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4695">
+              <answertext>&lt;p&gt;self-management, utilizing resources, and critical thinking&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, self-management, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, self-management skills are addressed as students articulate a learning goal and reflect on their individual barriers and supports. They use a T chart to categorize and analyze their situational factors and discuss how they can use supports (resources).&lt;/p&gt;
+&lt;p class="Feedback"&gt;The students are using critical thinking skills to categorize and analyze their barriers and supports, but there is no indication that digital literacy skills are practiced in this activity. While students are working with others, the activity doesn’t reference the application of specific academic skills.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4696">
+              <answertext>&lt;p&gt;basic academic skills and working with others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C&lt;/strong&gt;, self-management, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, self-management skills are addressed as students articulate a learning goal and reflect on their individual barriers and supports. They use a T chart to categorize and analyze their situational factors and discuss how they can use supports (resources).&lt;/p&gt;
+&lt;p class="Feedback"&gt;The students are using critical thinking skills to categorize and analyze their barriers and supports, but there is no indication that digital literacy skills are practiced in this activity. While students are working with others, the activity doesn’t reference the application of specific academic skills.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="842">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1499">
+        <parent>0</parent>
+        <name>Question 4 of 5</name>
+        <questiontext>&lt;p&gt;Read the following classroom activity description to identify the combination of workforce preparation activities that are the focus of the activity.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;The teacher facilitates a discussion about the ways that appropriate communication norms vary depending on the setting and the context. In teams, students role-play scenarios that the teacher has developed. Each scenario takes place in a different setting: a workplace, a family party, and a supermarket. Students provide each other feedback on the role-play performances. Afterwards, the teacher facilitates a discussion on how the communication styles differ in each context and why.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;Select the combination of workforce preparation activities you feel best fits the scenario.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;E&lt;/strong&gt;, understanding systems and working with others. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, students are investigating the ways that families, public spaces, and workplaces are systems (they each have their own norms of behavior and communication). The teamwork involved in the role-playing and feedback fosters their ability to work with others.  Ideally, the teacher would provide guidance on how to work as a member of a team and perhaps establish some ground rules for providing feedback to others and assign roles for group work (such as facilitator, timekeeper, and recorder).&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170711154746+S3KXZ1</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170815125627+THjTBn</version>
+        <hidden>0</hidden>
+        <timecreated>1499788066</timecreated>
+        <timemodified>1502801787</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4697">
+              <answertext>&lt;p&gt;basic academic and self-management&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;E&lt;/strong&gt;, understanding systems and working with others. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, students are investigating the ways that families, public spaces, and workplaces are systems (they each have their own norms of behavior and communication). The teamwork involved in the role-playing and feedback fosters their ability to work with others.  Ideally, the teacher would provide guidance on how to work as a member of a team and perhaps establish some ground rules for providing feedback to others and assign roles for group work (such as facilitator, timekeeper, and recorder).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4698">
+              <answertext>&lt;p&gt;critical thinking and working with others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;E&lt;/strong&gt;, understanding systems and working with others. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, students are investigating the ways that families, public spaces, and workplaces are systems (they each have their own norms of behavior and communication). The teamwork involved in the role-playing and feedback fosters their ability to work with others.  Ideally, the teacher would provide guidance on how to work as a member of a team and perhaps establish some ground rules for providing feedback to others and assign roles for group work (such as facilitator, timekeeper, and recorder).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4699">
+              <answertext>&lt;p&gt;digital literacy and critical thinking&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;E&lt;/strong&gt;, understanding systems and working with others. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, students are investigating the ways that families, public spaces, and workplaces are systems (they each have their own norms of behavior and communication). The teamwork involved in the role-playing and feedback fosters their ability to work with others.  Ideally, the teacher would provide guidance on how to work as a member of a team and perhaps establish some ground rules for providing feedback to others and assign roles for group work (such as facilitator, timekeeper, and recorder).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4700">
+              <answertext>&lt;p&gt;self-management and utilizing resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;E&lt;/strong&gt;, understanding systems and working with others. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, students are investigating the ways that families, public spaces, and workplaces are systems (they each have their own norms of behavior and communication). The teamwork involved in the role-playing and feedback fosters their ability to work with others.  Ideally, the teacher would provide guidance on how to work as a member of a team and perhaps establish some ground rules for providing feedback to others and assign roles for group work (such as facilitator, timekeeper, and recorder).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4701">
+              <answertext>&lt;p&gt;understanding systems and working with others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;E&lt;/strong&gt;, understanding systems and working with others. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. In this activity, students are investigating the ways that families, public spaces, and workplaces are systems (they each have their own norms of behavior and communication). The teamwork involved in the role-playing and feedback fosters their ability to work with others.  Ideally, the teacher would provide guidance on how to work as a member of a team and perhaps establish some ground rules for providing feedback to others and assign roles for group work (such as facilitator, timekeeper, and recorder).&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="843">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1500">
+        <parent>0</parent>
+        <name>Question 5 of 5</name>
+        <questiontext>&lt;p&gt;Read the following classroom activity description then identify the combination of workforce preparation activities that are the focus of the activity.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;The teacher presents a lesson on flow charts. Students learn how to read flow charts and discuss the types of situations in which they are useful. Next, they practice with workplace examples, such as a medical services or manufacturing quality control flowchart. Later, they choose a process in their own lives to chart. Examples might include charting morning routines, evening routines, or grocery shopping.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;Select the combination of workforce preparation activities you feel best fits the scenario.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;, understanding systems, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students use the flowcharts as graphic representations of various processes to gain insight into systems. They practice critical thinking skills to analyze a process in their own lives and represent it graphically. Finally, they are learning how to use a particular resource (a flow chart) for the purpose of representing systems or processes.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170711154929+QpB4U2</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170815125651+PGozNh</version>
+        <hidden>0</hidden>
+        <timecreated>1499788169</timecreated>
+        <timemodified>1502801811</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4702">
+              <answertext>&lt;p&gt;understanding systems, utilizing resources, and critical thinking&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;, understanding systems, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students use the flowcharts as graphic representations of various processes to gain insight into systems. They practice critical thinking skills to analyze a process in their own lives and represent it graphically. Finally, they are learning how to use a particular resource (a flow chart) for the purpose of representing systems or processes.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4703">
+              <answertext>&lt;p&gt;critical thinking, self-management, and working with others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;, understanding systems, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students use the flowcharts as graphic representations of various processes to gain insight into systems. They practice critical thinking skills to analyze a process in their own lives and represent it graphically. Finally, they are learning how to use a particular resource (a flow chart) for the purpose of representing systems or processes.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4704">
+              <answertext>&lt;p&gt;digital literacy and critical thinking&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;, understanding systems, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students use the flowcharts as graphic representations of various processes to gain insight into systems. They practice critical thinking skills to analyze a process in their own lives and represent it graphically. Finally, they are learning how to use a particular resource (a flow chart) for the purpose of representing systems or processes.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4705">
+              <answertext>&lt;p&gt;self-management and utilizing resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;, understanding systems, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students use the flowcharts as graphic representations of various processes to gain insight into systems. They practice critical thinking skills to analyze a process in their own lives and represent it graphically. Finally, they are learning how to use a particular resource (a flow chart) for the purpose of representing systems or processes.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4706">
+              <answertext>&lt;p&gt;understanding systems and working with others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;, understanding systems, utilizing resources, and critical thinking. In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students use the flowcharts as graphic representations of various processes to gain insight into systems. They practice critical thinking skills to analyze a process in their own lives and represent it graphically. Finally, they are learning how to use a particular resource (a flow chart) for the purpose of representing systems or processes.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="844">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1501">
+        <parent>0</parent>
+        <name>Question 1 of 2</name>
+        <questiontext>&lt;p&gt;Which of these skills/competencies is identified as a category in all three resources (NC-NET Resource Toolkit, Employability Skills Framework, and the Transitions Integration Framework)?&lt;/p&gt;
+&lt;p class="Prompt"&gt;Select the correct answer.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C, critical thinking and problem solving&lt;/strong&gt;. All three resources refer explicitly to these skills. Although many of the skills might imply self-efficacy and self-advocacy, they are only mentioned explicitly as an essential competency in the Guide to ELA Classroom Activities. Only the NC-NET Resource Toolkit refers to entrepreneurship as one of its eight skills. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170711185645+sZa1mV</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170728190627+Z3p8dQ</version>
+        <hidden>0</hidden>
+        <timecreated>1499799405</timecreated>
+        <timemodified>1501268787</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4707">
+              <answertext>&lt;p&gt;entrepreneurship&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C, critical thinking and problem solving&lt;/strong&gt;. All three resources refer explicitly to these skills. Although many of the skills might imply self-efficacy and self-advocacy, they are only mentioned explicitly as an essential competency in the Guide to ELA Classroom Activities. Only the NC-NET Resource Toolkit refers to entrepreneurship as one of its eight skills. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4708">
+              <answertext>&lt;p&gt;self-efficacy and self-advocacy &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C, critical thinking and problem solving&lt;/strong&gt;. All three resources refer explicitly to these skills. Although many of the skills might imply self-efficacy and self-advocacy, they are only mentioned explicitly as an essential competency in the Guide to ELA Classroom Activities. Only the NC-NET Resource Toolkit refers to entrepreneurship as one of its eight skills. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4709">
+              <answertext>&lt;p&gt;critical thinking and problem solving&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C, critical thinking and problem solving&lt;/strong&gt;. All three resources refer explicitly to these skills. Although many of the skills might imply self-efficacy and self-advocacy, they are only mentioned explicitly as an essential competency in the Guide to ELA Classroom Activities. Only the NC-NET Resource Toolkit refers to entrepreneurship as one of its eight skills. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="845">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1502">
+        <parent>0</parent>
+        <name>Question 2 of 2</name>
+        <questiontext>&lt;p style="text-align: left;"&gt;Which resource provides an interactive matrix of nine general skills, sorted into three categories (Applied Knowledge, Effective Relationships, and Workplace Skills), that are necessary for success in the labor market at all employment levels and all sectors?&lt;/p&gt;
+&lt;p class="Prompt" style="text-align: left;"&gt;Select the correct answer.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;. The &lt;strong&gt;Employability Skills Framework&lt;/strong&gt; provides an interactive matrix of nine general skills, sorted into three categories (Applied Knowledge, Effective Relationships, and Workplace Skills), that are necessary for success in the labor market at all employment levels and all sectors. The Framework is based on a review of over 20 existing standards, assessments, and skill descriptors, related to employability. It is the result of a cross-walking process to identify overlapping and mutually reinforcing skills across the various frameworks.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170711185919+OuPhNx</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170728190728+IYPZt7</version>
+        <hidden>0</hidden>
+        <timecreated>1499799559</timecreated>
+        <timemodified>1501268848</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4710">
+              <answertext>&lt;p&gt;Employability Skills Framework&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;. The &lt;strong&gt;Employability Skills Framework&lt;/strong&gt; provides an interactive matrix of nine general skills, sorted into three categories (Applied Knowledge, Effective Relationships, and Workplace Skills), that are necessary for success in the labor market at all employment levels and all sectors. The Framework is based on a review of over 20 existing standards, assessments, and skill descriptors, related to employability. It is the result of a cross-walking process to identify overlapping and mutually reinforcing skills across the various frameworks.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4711">
+              <answertext>&lt;p&gt;&lt;em&gt;Integrating Employability Skills: A Framework for All Educators&lt;/em&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;. The &lt;strong&gt;Employability Skills Framework&lt;/strong&gt; provides an interactive matrix of nine general skills, sorted into three categories (Applied Knowledge, Effective Relationships, and Workplace Skills), that are necessary for success in the labor market at all employment levels and all sectors. The Framework is based on a review of over 20 existing standards, assessments, and skill descriptors, related to employability. It is the result of a cross-walking process to identify overlapping and mutually reinforcing skills across the various frameworks.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4712">
+              <answertext>&lt;p&gt;Transitions Integration Framework&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;. The &lt;strong&gt;Employability Skills Framework&lt;/strong&gt; provides an interactive matrix of nine general skills, sorted into three categories (Applied Knowledge, Effective Relationships, and Workplace Skills), that are necessary for success in the labor market at all employment levels and all sectors. The Framework is based on a review of over 20 existing standards, assessments, and skill descriptors, related to employability. It is the result of a cross-walking process to identify overlapping and mutually reinforcing skills across the various frameworks.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4713">
+              <answertext>&lt;p&gt;&lt;em&gt;Guide to ELA Classroom Activities that Promote Life Skills, College and Career Readiness&lt;/em&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;A&lt;/strong&gt;. The &lt;strong&gt;Employability Skills Framework&lt;/strong&gt; provides an interactive matrix of nine general skills, sorted into three categories (Applied Knowledge, Effective Relationships, and Workplace Skills), that are necessary for success in the labor market at all employment levels and all sectors. The Framework is based on a review of over 20 existing standards, assessments, and skill descriptors, related to employability. It is the result of a cross-walking process to identify overlapping and mutually reinforcing skills across the various frameworks.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="846">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="239">
+    <name>Default for Comprehension Check</name>
+    <contextid>24994</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>6314</contextinstanceid>
+    <info>The default category for questions shared in context 'Comprehension Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+170711185432+OPbur1</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

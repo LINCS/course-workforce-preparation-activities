@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="84" moduleid="6310" modulename="questionnaire" contextid="24990">
+  <questionnaire id="84">
+    <course>168</course>
+    <name>NC-NET Employability Skills Resource Toolkit Reflection Questions</name>
+    <intro>&lt;p&gt;Once you've complete the questionnaire continue on to Integrating Employability Skills: A Framework for All Educators or click the link on the left side navigation. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>0</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>1</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>84</sid>
+    <timemodified>1490905051</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="84">
+        <name>NC-NET Employability Skills Resource Toolkit Reflection Questions</name>
+        <owner>168</owner>
+        <realm>private</realm>
+        <status>0</status>
+        <title>NC-NET Employability Skills Resource Toolkit Reflection Questions</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info>&lt;p&gt;When you have answered all the questions in the questionnaire, click submit &amp;gt; continue, so you may view your responses and print them. &lt;/p&gt;
+&lt;p&gt;Once you have reviewed and printed your responses, continue on to Integrating Employability Skills: A Framework for All Educators or click the link on the left side navigation.&lt;/p&gt;</info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head></thank_head>
+        <thank_body></thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="1123">
+            <survey_id>84</survey_id>
+            <name>$@NULL@$</name>
+            <type_id>99</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>break</content>
+            <required>n</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="1124">
+            <survey_id>84</survey_id>
+            <name>NC-NET Reflection Question 1</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>&lt;p&gt;List the eight employability skills identified in the Resource Toolkit.&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="1125">
+            <survey_id>84</survey_id>
+            <name>NC-NET Reflection Question 2</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>2</position>
+            <content>&lt;p&gt;Choose a module to review. You’ll notice that these instructional activities, while very comprehensive, are not aligned with the College and Career Readiness Standards, or organized or scaffolded according to instructional or skill levels.&lt;/p&gt;
+&lt;p&gt;Note ideas for how you might modify the activities and materials in the module you’ve reviewed, to make it accessible to your students&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="1126">
+            <survey_id>84</survey_id>
+            <name>NC-NET Reflection Question 3</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>3</position>
+            <content>&lt;p&gt;Where do you see opportunities in the module to embed College and Career Readiness Standards (ELA, Math, Speaking and Listening), so that this activity aligns with your curriculum objectives?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <attempts>
+    </attempts>
+  </questionnaire>
+</activity>

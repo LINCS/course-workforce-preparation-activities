@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="168" contextid="24763">
+  <shortname>Workforce Preparation Activities</shortname>
+  <fullname>Introduction to Workforce Preparation and Employability Skills</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;This course is designed for adult educators, administrators, teachers, and advisors who seek an introduction to the concept of workforce preparation and the specific skills outlined in the U.S. Department of Education's Employability Skills Framework. Participants should expect to learn what constitutes the workforce preparation activities referenced in the Workforce Innovation and Opportunity Act (WIOA); explain how to integrate workforce preparation activities into adult education programming and instruction; and locate resources to develop and incorporate workforce preparation activities into curriculum and instruction. This is the first in a two-part series exploring workforce preparation skills. The second course is Workforce Preparation Activities in the Classroom: Contextualizing Employability Skills for Deeper Learning.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1484197200</startdate>
+  <marker>0</marker>
+  <maxbytes>52428800</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1494525774</timecreated>
+  <timemodified>1512500494</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>3</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>5</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <category id="3">
+    <name>Career Pathways</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

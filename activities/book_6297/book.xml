@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="155" moduleid="6297" modulename="book" contextid="24977">
+  <book id="155">
+    <name>Workforce Preparation Activities: Skills </name>
+    <intro>&lt;p&gt;NA&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1495462876</timecreated>
+    <timemodified>1511984188</timemodified>
+    <chapters>
+      <chapter id="1100">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Taking a closer look</title>
+        <content>&lt;p&gt;Now that you understand what WIOA workforce preparation activities are and why they are important to incorporate into all levels of adult education, let’s take a closer look at the underlying skills and competencies in more detail than the WIOA legislation provides. We’ll also look at how workforce preparation activities align with research on strategies for effective instruction.&lt;/p&gt;
+&lt;p&gt;As you read about the workforce preparation activities and accompanying classroom examples, you’ll notice that the skills overlap and are mutually reinforcing. That is, the attainment of one is helpful or necessary in acquiring another. They are rarely taught, practiced, or applied to real-world situations in isolation, though a specific skill might be emphasized or highlighted more explicitly over another.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Throughout this section, classroom examples are provided to show how workforce preparation skills are integrated in familiar settings. These examples reflect using a combination of workforce preparation activities to develop rich lessons.  &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/S1_WordCloud.jpg" width="550" height="258" alt="Word cloud image with the following words: Employment; Education; Working with Others; Using Information; Critical Thinking; Utilizing Resources; Successful Transition; Basic Academic Skills; Understanding Systems; Digital Literacy; Self-Management; Skills" style="float: left;" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;o:p&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Click the &lt;b&gt;forward arrow&lt;/b&gt; to explore each of the skills that comprise workforce preparation activities.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502802275</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1101">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Exploring workforce preparation skills and competencies: Part 1</title>
+        <content>&lt;p class="Prompt"&gt;&lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;o:p&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" size="3" face="Times New Roman"&gt; &lt;/span&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;h1 class="Prompt"&gt;Workplace Preparation Skills and Competencies (WPSC)&lt;/h1&gt;
+&lt;p&gt;&lt;span style="font-family: Calibri; font-size: medium;" size="3" face="Calibri"&gt; &lt;/span&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" size="2" face="Verdana" color="#693300"&gt;Click on each workforce preparation skill for more information and resources.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="550" height="386" alt=" Workforce preparation skills and competencies graphic, which include Skills: basic academic skills, critical thinking, digital literacy and self-management, and competencies: utilizing resources, using information, working with others, understanding systems, skills necessary for successful transition into and completion of postsecondary education or employment" src="@@PLUGINFILE@@/OverallGraphic_Web%20Size.jpg" usemap="#navmap" /&gt; &lt;map name="navmap"&gt; 
+&lt;area title="Link to Basic Academic Skills" href="$@BOOKVIEWBYIDCH*6297*1102@$" shape="rect" coords="3,25,469,70" target="_top" alt="Link to Basic Academic Skills" name="Basic Academic Skills" /&gt;
+ 
+&lt;area title="Link to Crtical Thinking Skills" href="$@BOOKVIEWBYIDCH*6297*1105@$" shape="rect" coords="3,77,151,140" target="_top" alt="Link to Crtical Thinking Skills" name="Critical Thinking Skills" /&gt;
+ 
+&lt;area title="Link to Digital Literacy Skills Section" href="$@BOOKVIEWBYIDCH*6297*1108@$" shape="rect" coords="160,78,311,141" target="_top" alt="Link to Digital Literacy Skills Section" name="Digital Literacy" /&gt;
+ 
+&lt;area title="Link to Self-Management Skills" href="$@BOOKVIEWBYIDCH*6297*1111@$" shape="rect" coords="320,76,473,145" target="_top" alt="Link to Self-Management Skills" name="Self-Management" /&gt;
+ 
+&lt;area title="Skills necessar for successful transition" href="#" shape="rect" coords="3,277,548,336" alt="Skills necessar for successful transition" name="Skills necessar for successful transition" /&gt;
+ 
+&lt;area title="Working with Others Link" href="#" shape="rect" coords="273,198,406,274" alt="Working with Others Link" name="Working with Others Link" /&gt;
+ 
+&lt;area title="Using Information Link" href="#" coords="135,196,268,274" alt="Using Information Link" name="Using Information Link" /&gt;
+ 
+&lt;area title="Utilizing Resources Link" href="#" shape="rect" coords="4,195,132,272" alt="Utilizing Resources Link" name="Utilizing Resources Link" /&gt;
+ 
+&lt;area title="Understanding Systems Link" href="#" shape="rect" coords="408,197,548,271" alt="Understanding Systems Link" name="Understanding Sytems Link" /&gt;
+ 
+&lt;area title="" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="174,170,376,199" alt="" name="Link to WPSC Graphic" /&gt;
+ 
+&lt;area title="" href="#" shape="rect" coords="207,1,336,30" alt="" name="Link to WPSC Graphic" /&gt;
+ 
+&lt;area href="#" shape="default" target="_self" /&gt;
+ &lt;/map&gt;  &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1503513821</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1102">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Basic academic skills</title>
+        <content>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/OG_BasicAcademic.jpg" width="550" height="385" usemap="navmap" style="float: left;" alt="Workforce preparation skills and competencies graphic, which include Skills: basic academic skills, critical thinking, digital literacy and self-management, and competencies: utilizing resources, using information, working with others, understanding systems, skills necessary for successful transition into and completion of postsecondary education or employment" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;map name="navmap"&gt; 
+&lt;area name="Exploring workforce preparation skills" shape="rect" coords="214,1,339,23" href="$@BOOKVIEWBYIDCH*6297*1101@$" alt="Link to exploring workforce preparation skills" title="Link to exploring workforce preparation skills" target="_top" /&gt;
+ 
+&lt;area name="Basic Academic Skills" shape="rect" coords="1,29,547,81" href="$@BOOKVIEWBYIDCH*6297*1102@$" alt="Link to Basic Academic Skills" title="Link to Basic Academic Skills" target="_top" /&gt;
+ &lt;/map&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Academic skills - reading, writing, math/numeracy, and English language skills - are the foundation for workforce preparation activities. The emphasis here is on applying academic skills: problems or tasks are rarely encountered in our home or work lives that present themselves as they were presented in classrooms or textbooks. To deepen learning and prepare for the workforce, academic skills and content knowledge must also be thoughtfully applied and put to practical use in the workplace and elsewhere.&lt;/p&gt;
+&lt;p&gt;With the passage of WIOA, the scope of adult education is broadened to incorporate strategies and services that help learners prepare for and succeed in college and careers. A focus on workforce preparation activities requires educators to emphasize the application and transferability of academic skills to a variety of contexts that are relevant to students’ education and career goals and the skills needed to attain those goals.&lt;/p&gt;
+&lt;p&gt;As we’ll see when we explore the full array of workforce preparation activities, such activities involve skills that are mutually reinforcing and complementary when integrated with academic skill building.  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" p="" size="2"&gt;Click the arrow to continue to &lt;a href="$@BOOKVIEWBYIDCH*6297*1103@$"&gt;What research says about integrating basic academic skills&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502802298</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1103">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>What the research says about integrating basic academic skills</title>
+        <content>&lt;p&gt;Contextualizing instruction is a key strategy teachers can use to integrate workforce preparation activities into academic instruction to help students make important connections between the world of work, their career goals, and their academic skill-building to fully prepare adults for success in college and careers.&lt;/p&gt;
+&lt;p&gt;Not only is it important for learners to apply their knowledge to different contexts, but numerous studies point to the importance of practicing and transferring academic skills to a variety of settings in order for &lt;a href="$@GLOSSARYVIEWBYID*6319@$&amp;amp;mode=entry&amp;amp;hook=306" target="_blank"&gt;deeper learning &lt;/a&gt;and retention to occur. Further, a feature in the development of expertise is the ability is to use knowledge flexibly and apply it across multiple tasks and situations. A key practice to promote deeper learning, then, is to teach with examples and cases that illustrate how a general concept can be applied to a variety of situations. The same goal is at the heart of what is typically referred to as “&lt;a href="$@GLOSSARYVIEWBYID*6319@$&amp;amp;mode=entry&amp;amp;hook=303"&gt;contextualized instruction&lt;/a&gt;” (Pellegrino et al., 2012; Lesgold &amp;amp; Welch-Ross, 2012, p. 108).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="550" height="367" alt="Photo of three women, studying in an adult education class" src="@@PLUGINFILE@@/45374571_m.jpg" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1503578442</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1104">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Classroom activity example: Contextualized basic academic skills</title>
+        <content>&lt;p&gt;&lt;img width="550" height="386" alt=" Workforce preparation skills and competencies graphic, which include Skills: basic academic skills, critical thinking, digital literacy and self-management, and competencies: utilizing resources, using information, working with others, understanding systems, skills necessary for successful transition into and completion of postsecondary education or employment" src="@@PLUGINFILE@@/OG_BasicAcademic.jpg" usemap="#navmap" /&gt; &lt;map name="navmap"&gt; 
+&lt;area title="Link to Workforce Preparation Activities" href="$@BOOKVIEWBYIDCH*6297*1101@$" coords="3,25,469,70" target="_top" alt="Link to Basic Academic Skills" name="Workforce Preparation Activities" /&gt;
+ 
+&lt;area title="" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="174,170,376,199" alt="" name="Link to WPSC Graphic" /&gt;
+ 
+&lt;area title="" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="207,1,336,30" alt="" name="Link to WPSC Graphic" /&gt;
+ &lt;/map&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Here is a classroom example of contextualized basic academic skills.&lt;/p&gt;
+&lt;p&gt;In a unit on finding employment, intermediate ESOL students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;write job interview questions and role-play them in pairs to practice WH questions (who, what, where, why, why);&lt;/li&gt;
+&lt;li&gt;use examples of real employee handbooks to practice reading strategies, such as inferencing from headings and picture/diagrams, background knowledge, and finding the main idea; and&lt;/li&gt;
+&lt;li&gt;identify unfamiliar vocabulary words to learn.&lt;b&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" size="2" face="Verdana" color="#693300"&gt;Click on &lt;strong&gt;SKILLS&lt;/strong&gt; in the WPSC graphic to explore more workforce preparation skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="325" height="488" style="display: block; margin-left: NaNpx; margin-right: NaNpx;" alt="A construction worker is kneeling down on the ground, looking at a instruction book." src="@@PLUGINFILE@@/1406725_m.jpg" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1503511708</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1105">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Critical thinking skills defined</title>
+        <content>&lt;p&gt;&lt;img width="550" height="385" alt="Workforce preparation skills and competencies graphic, which include Skills: basic academic skills, critical thinking, digital literacy and self-management, and competencies: utilizing resources, using information, working with others, understanding systems, skills necessary for successful transition into and completion of postsecondary education or employment" src="@@PLUGINFILE@@/OG_CriticalThinking.jpg" usemap="navmap" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;map name="navmap"&gt; 
+&lt;area title="Link to exploring workforce preparation skills" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="214,1,339,23" target="_top" alt="Link to exploring workforce preparation skills" name="Exploring workforce preparation skills" /&gt;
+ 
+&lt;area title="Link to Basic Academic Skills" href="$@BOOKVIEWBYIDCH*6297*1102@$" shape="rect" coords="1,29,547,81" target="_top" alt="Link to Basic Academic Skills" name="Basic Academic Skills" /&gt;
+ &lt;/map&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;think critically and creatively;&lt;/li&gt;
+&lt;li&gt;make sound decisions;&lt;/li&gt;
+&lt;li&gt;solve problems;&lt;/li&gt;
+&lt;li&gt;reason; and&lt;/li&gt;
+&lt;li&gt;plan and organize.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img width="550" height="218" style="display: block; margin-left: NaNpx; margin-right: NaNpx;" alt="Icons representing “think” (light bulb), “decide” (mind with multiple directions), “solve” (mind with an arrow pointing out), “reason” (Person with several thought bubbles floating above), and “plan/organize” (calendar)." src="@@PLUGINFILE@@/icons_CriticalThinking.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt;Click the arrow to continue to &lt;a title="7 What the research says about integrating critical thinking skills" href="$@BOOKVIEWBYIDCH*6297*1106@$"&gt;What the research says about integrating critical thinking skills&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1548773753</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1106">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>What the research says about integrating critical thinking skills</title>
+        <content>&lt;p&gt;Explicit, &lt;a href="$@GLOSSARYVIEWBYID*6319@$&amp;amp;mode=letter&amp;amp;hook=S&amp;amp;sortkey=&amp;amp;sortorder=asc" target="_blank"&gt;scaffolded instruction &lt;/a&gt;is important for learning and applying new knowledge, because it helps learners develop complex strategies in combination with content knowledge.&lt;/p&gt;
+&lt;p&gt;Critical thinking, and the questioning techniques at its root, are a&lt;span style="background-color: #ffffff;"&gt;s much a key strategy in the &lt;i&gt;process&lt;/i&gt; of deeper learning as it is an outcome of workforce preparation activities. Again, workforce preparation activities a&lt;/span&gt;nd effective content instruction can mutually reinforce skills that are important to learning as well as to the workplace (Lesgold, A. &amp;amp; Welch-Ross, M. eds., 2012. p. 129).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="550" height="366" alt="Three students looking at computers in an adult education course. " src="@@PLUGINFILE@@/27474652_m.jpg" style="float: left;" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1501089395</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1107">
+        <pagenum>8</pagenum>
+        <subchapter>0</subchapter>
+        <title>Classroom activity example: Critical thinking and transition skills</title>
+        <content>&lt;!--REPLACE MAIN IMAGE--&gt;
+&lt;p&gt;&lt;img width="550" height="386" alt=" Workforce preparation skills and competencies graphic, which include Skills: basic academic skills, critical thinking, digital literacy and self-management, and competencies: utilizing resources, using information, working with others, understanding systems, skills necessary for successful transition into and completion of postsecondary education or employment" src="@@PLUGINFILE@@/OG_CriticalThinking.jpg" usemap="#navmap" /&gt;&lt;/p&gt;
+&lt;!--/REPLACE MAIN IMAGE--&gt;
+&lt;p&gt;&lt;map name="navmap"&gt; 
+&lt;area title="Skills: Workforce Preparation Activities" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="207,1,336,30" alt="" name="Link to WPSC Graphic" /&gt;
+ 
+&lt;area title="Link to Basic Academic Skills" href="#" shape="rect" coords="3,25,469,70" target="_top" alt="Link to Basic Academic Skills" name="Basic Academic Skills" /&gt;
+ 
+&lt;area title="Link to Crtical Thinking Skills" href="#" shape="rect" coords="3,77,151,140" target="_top" alt="Link to Crtical Thinking Skills" name="Critical Thinking Skills" /&gt;
+ 
+&lt;area title="Link to Digital Literacy Skills Section" href="#" shape="rect" coords="160,78,311,141" target="_top" alt="Link to Digital Literacy Skills Section" name="Digital Literacy" /&gt;
+ 
+&lt;area title="Link to Self-Management Skills" href="#" shape="rect" coords="320,76,473,145" target="_top" alt="Link to Self-Management Skills" name="Self-Management" /&gt;
+ 
+&lt;area title="Skills necessar for successful transition" href="#" shape="rect" coords="3,277,548,336" alt="Skills necessar for successful transition" name="Skills necessar for successful transition" /&gt;
+ 
+&lt;area title="Working with Others Link" href="#" shape="rect" coords="273,198,406,274" alt="Working with Others Link" name="Working with Others Link" /&gt;
+ 
+&lt;area title="Using Information Link" href="#" coords="135,196,268,274" alt="Using Information Link" name="Using Information Link" /&gt;
+ 
+&lt;area title="Utilizing Resources Link" href="#" shape="rect" coords="4,195,132,272" alt="Utilizing Resources Link" name="Utilizing Resources Link" /&gt;
+ 
+&lt;area title="Understanding Systems Link" href="#" shape="rect" coords="408,197,548,271" alt="Understanding Systems Link" name="Understanding Sytems Link" /&gt;
+ 
+&lt;area href="#" shape="default" target="_self" /&gt;
+ &lt;/map&gt;&lt;/p&gt;
+&lt;p&gt;Here is a classroom example that involves critical thinking as well as skills for transitioning to employment.&lt;/p&gt;
+&lt;p&gt;First, the teacher guides the class through a brainstorm to identify work values (e.g., flexibility versus consistency, working independently versus as part of a team, work at a desk versus physical labor). Next, the students complete a prioritization activity to identify their top job values. After gathering information about an occupation of interest to them, they use a rubric to assess the extent to which the occupation seems to align with their top five priority values.&lt;/p&gt;
+&lt;div&gt;
+&lt;p class="MoreInfoBox"&gt;Explore the TEAL Fact Sheet on &lt;a href="https://lincs.ed.gov/sites/default/files/12_TEAL_Deeper_Learning_Qs_complete_5_1_0.pdf" target="_parent"&gt;Deeper Learning&lt;/a&gt; for information, strategies, and examples of deeper learning instructional techniques.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" size="2" face="Verdana" color="#693300"&gt;Click on &lt;strong&gt;SKILLS&lt;/strong&gt; in the WPSC graphic to explore more workforce preparation skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;
+&lt;p class="MoreInfoBox"&gt;&lt;img width="550" height="363" style="float: left;" alt="Image of a group of diverse students studying around a table while working on a group project" src="@@PLUGINFILE@@/44741872_m.jpg" /&gt;&lt;/p&gt;
+&lt;p class="MoreInfoBox"&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1503578320</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1108">
+        <pagenum>9</pagenum>
+        <subchapter>0</subchapter>
+        <title>Digital literacy skills defined</title>
+        <content>&lt;!--REPLACE MAIN IMAGE--&gt;
+&lt;p&gt;&lt;img width="550" height="386" alt=" Workforce preparation skills and competencies graphic, which include Skills: basic academic skills, critical thinking, digital literacy and self-management, and competencies: utilizing resources, using information, working with others, understanding systems, skills necessary for successful transition into and completion of postsecondary education or employment" src="@@PLUGINFILE@@/OG_DigitalLiteracy.jpg" usemap="#navmap" /&gt;&lt;/p&gt;
+&lt;!--/REPLACE MAIN IMAGE--&gt;
+&lt;p&gt;&lt;map name="navmap"&gt; 
+&lt;area title="Skills: Workforce Preparation Activities" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="207,1,336,30" alt="" name="Link to WPSC Graphic" /&gt;
+ 
+&lt;area title="Link to Basic Academic Skills" href="#" shape="rect" coords="3,25,469,70" target="_top" alt="Link to Basic Academic Skills" name="Basic Academic Skills" /&gt;
+ 
+&lt;area title="Link to Crtical Thinking Skills" href="#" shape="rect" coords="3,77,151,140" target="_top" alt="Link to Crtical Thinking Skills" name="Critical Thinking Skills" /&gt;
+ 
+&lt;area title="Link to Digital Literacy Skills Section" href="#" shape="rect" coords="160,78,311,141" target="_top" alt="Link to Digital Literacy Skills Section" name="Digital Literacy" /&gt;
+ 
+&lt;area title="Link to Self-Management Skills" href="#" shape="rect" coords="320,76,473,145" target="_top" alt="Link to Self-Management Skills" name="Self-Management" /&gt;
+ 
+&lt;area title="Skills necessar for successful transition" href="#" shape="rect" coords="3,277,548,336" alt="Skills necessar for successful transition" name="Skills necessar for successful transition" /&gt;
+ 
+&lt;area title="Working with Others Link" href="#" shape="rect" coords="273,198,406,274" alt="Working with Others Link" name="Working with Others Link" /&gt;
+ 
+&lt;area title="Using Information Link" href="#" coords="135,196,268,274" alt="Using Information Link" name="Using Information Link" /&gt;
+ 
+&lt;area title="Utilizing Resources Link" href="#" shape="rect" coords="4,195,132,272" alt="Utilizing Resources Link" name="Utilizing Resources Link" /&gt;
+ 
+&lt;area title="Understanding Systems Link" href="#" shape="rect" coords="408,197,548,271" alt="Understanding Systems Link" name="Understanding Sytems Link" /&gt;
+ 
+&lt;area href="#" shape="default" target="_self" /&gt;
+ &lt;/map&gt;&lt;/p&gt;
+&lt;p&gt;WIOA defines digital literacy skills as skills “associated with using technology to enable users to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;find;&lt;/li&gt;
+&lt;li&gt;evaluate;&lt;/li&gt;
+&lt;li&gt;organize;&lt;/li&gt;
+&lt;li&gt;create; and&lt;/li&gt;
+&lt;li&gt;communicate information&lt;i&gt;”&lt;/i&gt; (WIOA, 2014. Sec 463.3).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The U.S. Department of Education’s Office of Career, Technical, and Adult Education (OCTAE) &lt;span class="nolink"&gt;Employability Skills Framework&lt;/span&gt; provides additional details about using appropriate digital technologies for&lt;i&gt; “&lt;/i&gt;calculating, collecting and displaying data, conducting research, creating presentations, and writing reports.”&lt;/p&gt;
+&lt;p&gt;&lt;img width="550" height="218" style="display: block; margin-left: auto; margin-right: auto;" alt="Icons representing digital literacy skills including “find” (looking glass over a shape of a head), “evaluate” (scale)0, “organize” (schedule), “create” (lightbulb), and “communicate” (two talking bubbles, with one inside the other)." src="@@PLUGINFILE@@/icons_DigitalLiteracy.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" size="2" face="Verdana" color="#693300"&gt;Click the arrow to continue on to &lt;a href="$@BOOKVIEWBYIDCH*6297*1109@$"&gt;What research says about digital literacy skills&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1503578379</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1109">
+        <pagenum>10</pagenum>
+        <subchapter>0</subchapter>
+        <title>What the research says about digital literacy skills</title>
+        <content>&lt;p&gt;While the focus of digital literacy is on gathering and reporting on information, a broader definition of digital literacy includes “complex problem solving in technology-rich environments” (OECD, 2012). In this definition, digital literacy involves the ability to use a variety of technology tools to communicate, network, and perform everyday practical tasks for personal, work, and civic purposes.&lt;/p&gt;
+&lt;p&gt;Current data, gathered through a 2012 large-scale study of adult skills, paint a picture of U.S. adults’ skills in tasks such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;purchasing items online;&lt;/li&gt;
+&lt;li&gt;finding specific information; and&lt;/li&gt;
+&lt;li&gt;managing personal data such as finances (NCES, 2013).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The same study shows that U.S. adults generally have a lower proficiency to complete complex problem solving tasks in technology-rich environments than our international counterparts. This study highlights the case for increasing the emphasis on digital literacy skills at all levels of adult education.&lt;/p&gt;
+&lt;p&gt;These skills cut across multiple contexts and settings beyond the workplace. Digital literacy and technology used for communication and information-processing are critical to function effectively within home, community, social, and educational contexts.&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h2&gt;More Information&lt;/h2&gt;
+&lt;p&gt;To learn more, explore federal &lt;a href="https://lincs.ed.gov/state-resources/federal-initiatives/digital-literacy"&gt;digital literacy resources&lt;/a&gt;, including materials for students, teachers and tutors, and program administrators.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502800522</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1110">
+        <pagenum>11</pagenum>
+        <subchapter>0</subchapter>
+        <title>Classroom activity example: Digital literacy and self-management</title>
+        <content>&lt;!--REPLACE MAIN IMAGE--&gt;
+&lt;p&gt;&lt;img width="550" height="386" alt=" Workforce preparation skills and competencies graphic, which include Skills: basic academic skills, critical thinking, digital literacy and self-management, and competencies: utilizing resources, using information, working with others, understanding systems, skills necessary for successful transition into and completion of postsecondary education or employment" src="@@PLUGINFILE@@/OG_DigitalLiteracy.jpg" usemap="#navmap" /&gt;&lt;/p&gt;
+&lt;!--/REPLACE MAIN IMAGE--&gt;
+&lt;p&gt; &lt;map name="navmap"&gt; 
+&lt;area title="Skiils: Workforce Preparation Activities" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="207,1,336,30" alt="" name="Link to WPSC Graphic" /&gt;
+ 
+&lt;area title="Link to Basic Academic Skills" href="#" shape="rect" coords="3,25,469,70" target="_top" alt="Link to Basic Academic Skills" name="Basic Academic Skills" /&gt;
+ 
+&lt;area title="Link to Crtical Thinking Skills" href="#" shape="rect" coords="3,77,151,140" target="_top" alt="Link to Crtical Thinking Skills" name="Critical Thinking Skills" /&gt;
+ 
+&lt;area title="Link to Digital Literacy Skills Section" href="#" shape="rect" coords="160,78,311,141" target="_top" alt="Link to Digital Literacy Skills Section" name="Digital Literacy" /&gt;
+ 
+&lt;area title="Link to Self-Management Skills" href="#" shape="rect" coords="320,76,473,145" target="_top" alt="Link to Self-Management Skills" name="Self-Management" /&gt;
+ 
+&lt;area title="Skills necessar for successful transition" href="#" shape="rect" coords="3,277,548,336" alt="Skills necessar for successful transition" name="Skills necessar for successful transition" /&gt;
+ 
+&lt;area title="Working with Others Link" href="#" shape="rect" coords="273,198,406,274" alt="Working with Others Link" name="Working with Others Link" /&gt;
+ 
+&lt;area title="Using Information Link" href="#" coords="135,196,268,274" alt="Using Information Link" name="Using Information Link" /&gt;
+ 
+&lt;area title="Utilizing Resources Link" href="#" shape="rect" coords="4,195,132,272" alt="Utilizing Resources Link" name="Utilizing Resources Link" /&gt;
+ 
+&lt;area title="Understanding Systems Link" href="#" shape="rect" coords="408,197,548,271" alt="Understanding Systems Link" name="Understanding Sytems Link" /&gt;
+ &lt;/map&gt;&lt;map name="navmap"&gt; &lt;/map&gt;&lt;/p&gt;
+&lt;p&gt;Here is how one ABE teacher incorporates digital literacy as well as self-management skills into her classroom instruction:&lt;/p&gt;
+&lt;p style="text-align: left; margin-left: 30px;"&gt;&lt;em&gt;Students learn how to use excel to set-up a spreadsheet that they will use to track how they spend their time for a week. They learn how to open and save a document; how to create a table with column headings such as work, transportation, school, meals, and chores; and how to enter time, in minutes, into the cells. After they log their time for a week, they learn how to set up a formula for adding cells and calculating average time spent per task per week. Then students analyze how they spend their time and see if they can find 45 minutes per week for additional reading. Finally, they discuss the concept of spreadsheets and other uses for them.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" size="2" face="Verdana" color="#693300"&gt;Click on &lt;strong&gt;SKILLS&lt;/strong&gt; in the WPSC graphic to explore more workforce preparation skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;img width="550" height="367" style="float: left;" alt="Young woman sitting at a glass desk, while using technology to find and organize information" src="@@PLUGINFILE@@/48645206_m.jpg" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1503578932</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1111">
+        <pagenum>12</pagenum>
+        <subchapter>0</subchapter>
+        <title>Self-management skills defined</title>
+        <content>&lt;!--REPLACE MAIN IMAGE--&gt;
+&lt;p&gt;&lt;img width="550" height="386" alt=" Workforce preparation skills and competencies graphic, which include Skills: basic academic skills, critical thinking, digital literacy and self-management, and competencies: utilizing resources, using information, working with others, understanding systems, skills necessary for successful transition into and completion of postsecondary education or employment" src="@@PLUGINFILE@@/OG_SelfManagement.jpg" usemap="#navmap" /&gt;&lt;/p&gt;
+&lt;!--/REPLACE MAIN IMAGE--&gt;
+&lt;p&gt;&lt;map name="navmap"&gt; 
+&lt;area title="Skiils: Workforce Preparation Activities" href="#" coords="207,1,336,30" alt="" name="Link to WPSC Graphic" /&gt;
+ 
+&lt;area title="Link to Basic Academic Skills" href="#" shape="rect" coords="3,25,469,70" target="_top" alt="Link to Basic Academic Skills" name="Basic Academic Skills" /&gt;
+ 
+&lt;area title="Link to Crtical Thinking Skills" href="#" shape="rect" coords="3,77,151,140" target="_top" alt="Link to Crtical Thinking Skills" name="Critical Thinking Skills" /&gt;
+ 
+&lt;area title="Link to Digital Literacy Skills Section" href="#" shape="rect" coords="160,78,311,141" target="_top" alt="Link to Digital Literacy Skills Section" name="Digital Literacy" /&gt;
+ 
+&lt;area title="Link to Self-Management Skills" href="#" shape="rect" coords="320,76,473,145" target="_top" alt="Link to Self-Management Skills" name="Self-Management" /&gt;
+ 
+&lt;area title="Skills necessar for successful transition" href="#" shape="rect" coords="3,277,548,336" alt="Skills necessar for successful transition" name="Skills necessar for successful transition" /&gt;
+ 
+&lt;area title="Working with Others Link" href="#" shape="rect" coords="273,198,406,274" alt="Working with Others Link" name="Working with Others Link" /&gt;
+ 
+&lt;area title="Using Information Link" href="#" coords="135,196,268,274" alt="Using Information Link" name="Using Information Link" /&gt;
+ 
+&lt;area title="Utilizing Resources Link" href="#" shape="rect" coords="4,195,132,272" alt="Utilizing Resources Link" name="Utilizing Resources Link" /&gt;
+ 
+&lt;area title="Understanding Systems Link" href="#" shape="rect" coords="408,197,548,271" alt="Understanding Systems Link" name="Understanding Sytems Link" /&gt;
+ 
+&lt;area href="#" shape="default" target="_self" /&gt;
+ &lt;/map&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;map name="navmap"&gt; 
+&lt;area title="Link to Self-Management" href="$@BOOKVIEWBYIDCH*6297*1111@$" shape="rect" coords="369,82,545,166" target="_top" alt="Link to Self-Management" name="Link to Self-Management" /&gt;
+ 
+&lt;area title="Link to Exploration of Workforce Preparation Skills" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="215,3,346,30" target="_top" alt="Link to Exploration of Workforce Preparation Skills" name="Link to WPSC Graphic" /&gt;
+ &lt;/map&gt; &lt;map name="navmap"&gt; 
+&lt;area title="Link to WPSC Graphic" href="$@BOOKVIEWBYIDCH*6297*1101@$" shape="rect" coords="223,0,337,37" target="_top" alt="Link to WPSC Graphic" name="Skills" /&gt;
+ &lt;/map&gt;&lt;/p&gt;
+&lt;p&gt;Self-management is the set of skills, strategies, and steps required to set and achieve goals, and includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;working independently;&lt;/li&gt;
+&lt;li&gt;taking initiative;&lt;/li&gt;
+&lt;li&gt;demonstrating a willingness to learn; and&lt;/li&gt;
+&lt;li&gt;taking responsibility for growth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition to laying out the procedural steps in a plan and managing time on tasks, self- management includes mustering the initiative, motivation, and mindset to stay on course. It also involves monitoring one’s own progress, seeking information and assistance, and adjusting as obstacles and opportunities surface.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="550" height="218" style="display: block; margin-left: auto; margin-right: auto;" alt=" Icons representing self-management including “independence” (person working on computer), “initiative” (person climbing a mountain), “willingness” (person raising hand), and responsibility (hands holding a flower)." src="@@PLUGINFILE@@/icons_SelfManagement.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" size="2" face="Verdana" color="#693300"&gt;Click the arrow to continue to &lt;a href="$@BOOKVIEWBYIDCH*6297*1112@$"&gt;What the research says about self-management skills&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" size="3" face="Times New Roman"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" size="3" face="Times New Roman"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1503578970</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1112">
+        <pagenum>13</pagenum>
+        <subchapter>0</subchapter>
+        <title>What the research says about self-management skills</title>
+        <content>&lt;p&gt;Studies have shown that providing people with the opportunity to articulate a desired outcome and develop an action plan that takes into consideration potential obstacles and their solutions is more effective in fostering goal attainment than simply articulating a goal without an accompanying plan (Shechtman, Yarnall, Stites, &amp;amp; Cheng, 2016).&lt;/p&gt;
+&lt;p&gt;The process of articulating goals, developing action plans, and celebrating progress made towards achieving the goal is a key to student persistence and further underscores the importance of self-management skills (Comings, Parrella, &amp;amp; Soricone, 1999).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/self-management.jpg" width="550" height="196" alt="Concept graphic showing a man drawing while other objects surround him, to convey self-management." /&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h2&gt;More Information&lt;/h2&gt;
+&lt;p class="MoreInfoBox"&gt;Explore the TEAL Fact Sheets on &lt;a href="https://lincs.ed.gov/sites/default/files/3_TEAL_Self%20Reg%20Learning.pdf"&gt;Self-Regulated Learning&lt;/a&gt; and &lt;a href="https://lincs.ed.gov/sites/default/files/10_TEAL_Self_Reg_Strat_Dev_0.pdf"&gt;Self-Regulated Strategy Development&lt;/a&gt; for more information and instructional strategies on how to help students learn, use, and adopt this approach.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1501084697</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1113">
+        <pagenum>14</pagenum>
+        <subchapter>0</subchapter>
+        <title>Self-management and self-regulation used interchangeably</title>
+        <content>&lt;p&gt;In the context of learning, the term &lt;i&gt;self-management&lt;/i&gt; is often used interchangeably with the term &lt;i&gt;self-regulation&lt;/i&gt;. Effective and persistent learners are found to employ metacognitive strategies and self-regulation skills, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;asking questions;&lt;/li&gt;
+&lt;li&gt;taking notes;&lt;/li&gt;
+&lt;li&gt;analyzing the task at hand;&lt;/li&gt;
+&lt;li&gt;setting learning goals;&lt;/li&gt;
+&lt;li&gt;managing time on task; and&lt;/li&gt;
+&lt;li&gt;monitoring progress.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="MoreInfoBox"&gt;&lt;img src="@@PLUGINFILE@@/36972737_m.jpg" width="550" height="366" alt="A pair of hands writing on a notepad, with sticky notes and a tablet, on a wooden table." style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/p&gt;
+&lt;p class="MoreInfoBox" style="text-align: center;"&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h2&gt;More Info&lt;/h2&gt;
+&lt;p class="MoreInfoBox"&gt;For more information on metacognition, strategies, and processes, explore the TEAL Fact Sheet on &lt;a href="https://lincs.ed.gov/sites/default/files/4_TEAL_Metacognitive.pdf"&gt;Metacognitive Processes&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1501084715</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1114">
+        <pagenum>15</pagenum>
+        <subchapter>0</subchapter>
+        <title>Classroom activity example: Self-management and using information</title>
+        <content>&lt;p&gt;Here is an example that incorporates self-management skills and using information:&lt;/p&gt;
+&lt;p&gt;Students create a log to track how they allocate their time for transportation, school, work, sleep, meals, household chores, television, reading, etc. In class, they analyze the results and discuss whether they can dedicate an additional 45 minutes per week for homework to progress more rapidly in class. During class, students develop a study schedule and commit to following it for four weeks. Each week, students meet in small groups to discuss challenges to sticking with the schedule and possible solutions.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/10179262_m.jpg" width="550" height="366" alt="Adult students writing in a schedule log" style="vertical-align: text-bottom;" /&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;o:p&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;"&gt;Continue to Workforce Preparation Activities: Competencies to select competencies to explore.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502806729</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

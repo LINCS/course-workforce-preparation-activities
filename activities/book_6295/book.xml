@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="153" moduleid="6295" modulename="book" contextid="24974">
+  <book id="153">
+    <name>Importance of Workforce Preparation Activities</name>
+    <intro>&lt;p&gt;Put description here.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1495460968</timecreated>
+    <timemodified>1511984148</timemodified>
+    <chapters>
+      <chapter id="1088">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 1: overview and learning objectives</title>
+        <content>&lt;p&gt;Welcome to Session 1&lt;span style="background-color: #ffffff;"&gt;: &lt;i&gt;Workforce Innovation and Opportunity Act (WIOA) and Workforce Preparation&lt;/i&gt;. T&lt;/span&gt;his session will introduce the workforce preparation activities referenced in WIOA section 203, which help adult education programs meet the goal of improving access to education and training opportunities, as well as to employment for all adults.&lt;/p&gt;
+&lt;p&gt;After completing this session, you will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;explain the importance of workforce preparation activities in achieving WIOA outcomes;&lt;/li&gt;
+&lt;li&gt;define workforce preparation activities; &lt;/li&gt;
+&lt;li&gt;describe the evidence that illustrates how workforce preparation activities align with and reinforce effective teaching strategies for deeper learning; and&lt;/li&gt;
+&lt;li&gt;match sample lesson activities with the specific workforce preparation skills they illustrate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1501169458</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1089">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Six core programs integral to the workforce development system</title>
+        <content>&lt;p&gt;Why are workforce preparation activities so important? Under WIOA, adult education is identified as one of &lt;strong&gt;six core programs&lt;/strong&gt; of the workforce development system (WIOA, 2015. Title II). Adult education’s role is to provide critical services and activities to support adult learners with the goal of improving access to education and training opportunities, as well as to employment (OCTAE, 2015).&lt;/p&gt;
+&lt;p&gt;The legislation outlines a vision for an array of education and workforce services, coordinated across the six core programs. WIOA promotes educational delivery models and activities such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="$@GLOSSARYVIEWBYID*6319@$&amp;amp;mode=entry&amp;amp;hook=302" target="_blank"&gt;Career Pathways&lt;/a&gt;;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="$@GLOSSARYVIEWBYID*6319@$&amp;amp;mode=entry&amp;amp;hook=313" target="_blank"&gt;Integrated Education and Training&lt;/a&gt;;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="$@GLOSSARYVIEWBYID*6319@$&amp;amp;mode=entry&amp;amp;hook=314" target="_blank"&gt;Integrated English Literacy and Civics Education&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The descriptions of each of these services and programs reference workforce preparation activities as a component.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h2&gt;Six Core Programs&lt;/h2&gt;
+&lt;h4&gt;&lt;span style="font-size: medium;"&gt;Six core programs are:&lt;/span&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;adult, dislocated worker, and youth&lt;/b&gt;  programs administered by the Department of Labor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;adult education programs&lt;/b&gt; funded through the Adult and Family Literacy Act, administered by the Department of Education&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;employment services &lt;/strong&gt;funded through the Wagner-Peyser Act and administered by the Department of Labor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;vocational rehabilitation programs&lt;/b&gt; funded through the Rehabilitation Act, administered by the Department of Education&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1500572732</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1090">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Shared accountability through performance indicators</title>
+        <content>&lt;p&gt;WIOA also organizes a system of shared accountability across the six core programs through joint performance indicators. These performance indicators include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;employment rate the 2&lt;sup&gt;nd&lt;/sup&gt; and 4&lt;sup&gt;th&lt;/sup&gt; quarter after participants exit a program;&lt;/li&gt;
+&lt;li&gt;median earnings;&lt;/li&gt;
+&lt;li&gt;credential attainment;&lt;/li&gt;
+&lt;li&gt;measurable skill gain; and&lt;/li&gt;
+&lt;li&gt;effectiveness in serving employers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img width="550" height="367" alt="Picture of a tape measure, with the tape streched out, in between the words &amp;quot;performace&amp;quot; and &amp;quot;indicators&amp;quot;." src="@@PLUGINFILE@@/PerfIndicataors.jpg" /&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div id="_com_1" language="JavaScript"&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt;Continue to Introducing Workforce Preparation Activities.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502802014</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1091">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Meeting the needs of individuals with barriers to employment</title>
+        <content>&lt;p&gt;WIOA requires all six core programs to develop services and strategies to meet the needs of the most vulnerable in our communities, such as low-income adults and youth with limited skills and work experiences.&lt;/p&gt;
+&lt;p&gt;Learners with barriers to employment benefit from engaging in workforce preparation activities through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;improved academic and/or English language skills&lt;/li&gt;
+&lt;li&gt;increased ability to transfer skills from the classroom to the workplace&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Workforce preparation activities provide a renewed emphasis on employment and postsecondary education and training in academic skill instruction.&lt;/p&gt;
+&lt;div&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p class="MoreInfoBox"&gt;Review the list below, of the 14 populations with barriers to employment outlined in Section 3 of WIOA.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="graybox"&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;Populations with Barriers to Employment &lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;WIOA provides a new and expanded definition for individuals with a barrier to employment. The term refers to any individual who is a member of one or more of the following populations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li&gt;Displaced homemakers&lt;/li&gt;
+&lt;li&gt;Low-income individuals&lt;/li&gt;
+&lt;li&gt;American Indians, Alaska Natives, and Native Hawaiians (as defined in section 166)&lt;/li&gt;
+&lt;li&gt;Individuals with disabilities, including youth who are individuals with disabilities&lt;/li&gt;
+&lt;li&gt;Older individuals&lt;/li&gt;
+&lt;li&gt;Ex-offenders&lt;/li&gt;
+&lt;li&gt;Homeless individuals, homeless children or youth&lt;/li&gt;
+&lt;li&gt;Youth who are in or have aged out of the foster care system&lt;/li&gt;
+&lt;li&gt;Individuals who are English language learners, individuals who have low levels of literacy, and individuals facing substantial cultural barriers&lt;/li&gt;
+&lt;li&gt;Eligible migrant and seasonal farmworkers&lt;/li&gt;
+&lt;li&gt;Individuals within two years of exhausting lifetime eligibility of Social Security Part A&lt;/li&gt;
+&lt;li&gt;Single parents (including single pregnant women)&lt;/li&gt;
+&lt;li&gt;Long-term unemployed individuals&lt;/li&gt;
+&lt;li&gt;Such other groups as the governor involved determines to have barriers to employment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1528316930</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

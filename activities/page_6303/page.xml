@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1412" moduleid="6303" modulename="page" contextid="24983">
+  <page id="1412">
+    <name>Session 2: Learning Objectives</name>
+    <intro>&lt;h1 style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;Terminal Objectives (TOs) and Enabling Objectives (EOs)&lt;/span&gt;&lt;/h1&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1 style="text-align: left;"&gt;Terminal Objectives (TOs) and Enabling Objectives (EOs)&lt;/h1&gt;
+&lt;h2&gt;&lt;span style="font-size: large;"&gt;Session 2: Resources for Integrating Workforce Preparation Activities&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;b&gt;TO: &lt;/b&gt;Explore resources available to help you incorporate workforce preparation activities into your curriculum and instruction.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;EOs: &lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;2-1: Describe the purpose and key features of the&lt;span class="nolink"&gt; Employability Skills Framework&lt;/span&gt;.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;2-2: Describe the purpose and key features of the &lt;span class="nolink"&gt;Transitions Integration Framework (TIF).&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;2-3: Describe the purpose and key features of the Guide to &lt;span class="nolink"&gt;ELA Classroom Activities that Promote Life Skills, College, and Career Readiness&lt;/span&gt;.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;2-4: Describe the purpose and key features of the North Carolina Network for Excellence in Teaching (&lt;span class="nolink"&gt;NC-NET) Employability Skills Resource Toolkit.)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;2-5: Describe the purpose and key features of three &lt;span class="nolink"&gt;digital literacy&lt;/span&gt; resources.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt;Continue to &lt;b&gt;Employability Skills Framework&lt;/b&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt" style="text-align: left;"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>12</revision>
+    <timemodified>1511984328</timemodified>
+  </page>
+</activity>

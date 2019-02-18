@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1413" moduleid="6315" modulename="page" contextid="24995">
+  <page id="1413">
+    <name>Reflection Activity</name>
+    <intro>&lt;p&gt;NA&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1 style="text-align: left;"&gt;Reflect on Your Own Experience&lt;/h1&gt;
+&lt;p style="text-align: left;"&gt;Many teachers are probably already integrating some or all of the skills and competencies of the WIOA workforce preparation activities into classroom instruction.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Take a moment to reflect on your own experiences and the resources you have used to plan your curriculum. Have you used any of the resources presented in this course? Are there others you have used? Which ones seem to be the most effective? How do you know?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Share your experiences and resources and read other teachers' responses in the LINCS Career Pathways Group.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt;Once you have completed this activity continue to &lt;b&gt;Session 2 Conclusion&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt" style="text-align: left;"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1511984469</timemodified>
+  </page>
+</activity>

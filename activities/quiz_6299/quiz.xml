@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="94" moduleid="6299" modulename="quiz" contextid="24979">
+  <quiz id="94">
+    <name>Quiz: Comprehension Check</name>
+    <intro>&lt;p&gt;The following quiz will check your understanding of the concepts reviewed in Session 1: WIOA and Workforce Preparation. You may attempt the quiz multiple times. Once finished please click here to continue on to Share Your Thoughts to continue the course.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>4368</reviewcorrectness>
+    <reviewmarks>4368</reviewmarks>
+    <reviewspecificfeedback>4368</reviewspecificfeedback>
+    <reviewgeneralfeedback>4368</reviewgeneralfeedback>
+    <reviewrightanswer>4368</reviewrightanswer>
+    <reviewoverallfeedback>4368</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>0</shuffleanswers>
+    <questions>1496,1497,1498,1499,1500,0</questions>
+    <sumgrades>5.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1501619828</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="647">
+        <question>1496</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="648">
+        <question>1497</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="649">
+        <question>1498</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="650">
+        <question>1499</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="651">
+        <question>1500</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="137">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

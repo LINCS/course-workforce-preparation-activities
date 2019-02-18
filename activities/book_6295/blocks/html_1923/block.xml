@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="1923" contextid="24975" version="2013110500">
+  <blockname>html</blockname>
+  <parentcontextid>24974</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>mod-book-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>1</defaultweight>
+  <configdata>Tzo4OiJzdGRDbGFzcyI6MTp7aTowO2I6MDt9</configdata>
+  <block_positions>
+  </block_positions>
+</block>

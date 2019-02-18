@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="162" moduleid="6312" modulename="book" contextid="24992">
+  <book id="162">
+    <name>Digital Literacy Resources</name>
+    <intro>&lt;p&gt;INSERT DESCRIPTION&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1495727107</timecreated>
+    <timemodified>1511984435</timemodified>
+    <chapters>
+      <chapter id="1154">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Additional resources for integrating digital literacy activities into instruction</title>
+        <content>&lt;h2 style="text-align: center;"&gt;&lt;/h2&gt;
+&lt;p&gt;Activities that fo&lt;span style="font-size: small;"&gt;ster digital literacy are critical to workforce preparation under WIOA and echoed in the &lt;span class="nolink"&gt;Employability Skills Framework&lt;/span&gt;. TIF, described earlier in this course, maintains a steady focus on incorporating digital literacy skill-building into all sample activities.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Given that integrating technology and teaching digital literacy skills are so important yet still emergent practices in adult education, this topic highlights some &lt;span class="nolink"&gt;additional resources&lt;/span&gt; teachers of adult learners can use to integrate digital literacy activities into their current curriculum, including the:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class="nolink"&gt;LINCS Digital Literacy webpage;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Tech Tips for Teachers blog; and&lt;/li&gt;
+&lt;li&gt;Teaching Excellence in Adult Literacy (TEAL) resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/46100354_m.jpg" width="550" height="366" alt="Adult students working at a computer" style="float: left;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1501087093</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1155">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>LINCS digital literacy web page offers resources for students, teachers, and programs</title>
+        <content>&lt;p&gt;The U.S. Department of Education funds digital literacy initiatives that are designed to enhance the integration of technology into adult education instruction. The &lt;a href="https://lincs.ed.gov/programs/digital-literacy" target="_blank"&gt;LINCS Digital Literacy&lt;/a&gt; web page offers a wide range of free resources for students, teachers, and adult education programs that aim to increase student access to technology and leverage learning outside the classroom.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Integrating Technology in the Adult Education Classroom &lt;/i&gt;is a self-paced course that provides strategies, approaches, and tools for integrating technology. Note that this course requires users to log in to the &lt;a href="http://courses.lincs.ed.gov/" target="_blank"&gt;LINCS Learning Portal&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/LINCS%20Digital%20Literacy%20web%20page_screenshot_7-11.JPG" width="550" height="552" alt="Screenshot of LINCS Digital Literacy Web Page" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502808157</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1156">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Blog helps adult educators use technology to foster digital literacy </title>
+        <content>&lt;p&gt;Teachers, professional developers, and subject matter experts around the country have contributed to the &lt;a href="http://edtech.worlded.org/blog/"&gt;Tech Tips for Teachers&lt;/a&gt; blog, hosted by the EdTech Center at World Education. The goal of the blog is to help adult educators use technology to aid instruction and foster digital literacy.&lt;/p&gt;
+&lt;p&gt;The&lt;a href="http://techtipsforteachers.weebly.com/"&gt; blog archive &lt;/a&gt;(2014 – 2016) offers a lesson index that allows users to select classroom-ready activities according to instructional content and topics, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;reading and writing;&lt;/li&gt;
+&lt;li&gt;vocabulary and grammar;&lt;/li&gt;
+&lt;li&gt;speaking and listening;&lt;/li&gt;
+&lt;li&gt;math and numeracy;&lt;/li&gt;
+&lt;li&gt;digital literacy;&lt;/li&gt;
+&lt;li&gt;science;&lt;/li&gt;
+&lt;li&gt;organizing information; and&lt;/li&gt;
+&lt;li&gt;career explorations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The blog includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hands-on ideas for integrating technology into adult education;&lt;/li&gt;
+&lt;li&gt;updates from the field; and&lt;/li&gt;
+&lt;li&gt;best practices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The range of topics reflects the blog’s focus on integrating technology rather than merely using technology. That is, when technology is used in the service of content instruction and is aimed not just at teaching the mechanics of technology use, it supports and enhances learning, communication, collaboration and problem solving, and subsequently workforce preparation skills, in all subject areas.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/Tech%20Tips%20for%20Teachers%20blog_Screenshot_7-11.JPG" width="550" height="603" style="vertical-align: text-bottom;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;div class="graybox"&gt;
+&lt;h2&gt;More Information&lt;/h2&gt;
+This &lt;a href="https://teachbytes.com/2013/03/29/whats-the-difference-between-using-technology-and-technology-integration/"&gt;table&lt;/a&gt; from Teachbytes further underscores the difference between using technology and integrating&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt; technolo&lt;em&gt;gy. &lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502809007</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1157">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>TEAL center promotes a variety of research-based practices</title>
+        <content>&lt;p&gt;OCTAE’s &lt;strong&gt;Teaching Excellence in Adult Literacy (TEAL) Center&lt;/strong&gt; is designed to improve the quality of teaching in adult education by promoting a variety of research-based practices.&lt;/p&gt;
+&lt;p&gt;TEAL features guides for teaching &lt;a href="https://lincs.ed.gov/programs/teal/guide/toc" target="_blank"&gt;writing &lt;/a&gt;and &lt;a href="https://lincs.ed.gov/sites/default/files/Teal_Math_Works_Guide_508.pdf"&gt;math&lt;/a&gt; and a series of 12 &lt;a href="https://lincs.ed.gov/programs/teal/resources" target="_blank"&gt;Fact Sheets&lt;/a&gt; that suggest how research on a variety of educational issues, including technology-supported writing instruction, can be readily applied to teaching practices.&lt;/p&gt;
+&lt;p&gt;In addition, TEAL provides&lt;a href="https://lincs.ed.gov/programs/teal/guide/technology" target="_blank"&gt; resources for enhancing teaching and learning&lt;/a&gt; through effective use of technology and offers strategies for using and sharing technology solutions programs where little to no instructional technology is available (such as correctional facilities).&lt;/p&gt;
+&lt;p class="Prompt" style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/LINCS%20Resesources%20websit_screenshot_7-11.JPG" width="550" height="565" alt="Screenshot of Teaching Excellence in Adult Literacy (TEAL) Center" /&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;o:p&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Continue to explore Additional Resources.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502809027</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

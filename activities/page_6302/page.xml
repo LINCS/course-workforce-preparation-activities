@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1411" moduleid="6302" modulename="page" contextid="24982">
+  <page id="1411">
+    <name>Session 2: Introduction</name>
+    <intro>&lt;p&gt;NA&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h3 style="text-align: left;"&gt;Session 2 Overview &lt;/h3&gt;
+&lt;p style="text-align: left;"&gt;Welcome to Session 2: &lt;i&gt;&lt;span&gt;Resources for Integrating Workforce Preparation Activities&lt;/span&gt;&lt;/i&gt;. In this session, you will explore resources available to incorporate workforce preparation activities into curriculum and instruction. These resources were selected because each is grounded in a set of employability, transition, college and career readiness and life skills that aligns with the WIOA definition of workforce preparation activities. Each offers examples of classroom activities and indicators for demonstrating skill attainment at different levels of instruction.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;After completing this session, you will be able to describe the key features of these resources that you can use to integrate workforce preparation activities into academic instruction:&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;the &lt;span class="nolink"&gt;Employability Skills Framework;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;span class="nolink"&gt;Transitions Integration Framework (TIF);&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;span class="nolink"&gt;Guide to ELA Classroom Activities that Promote Life Skills, College, and Career Readiness;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;the&lt;span class="nolink"&gt; North Carolina Network for Excellence in Teaching (NC-NET) Employability Skills Resource Toolkit;&lt;/span&gt; and&lt;/li&gt;
+&lt;li&gt;&lt;span class="nolink"&gt;LINCS Digital Literacy Resources.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span class="nolink"&gt;Additional resources, &lt;/span&gt;guidance on lesson planning, and instruction will be introduced in the second course in this two-part series on workforce preparation activities, &lt;b&gt;Workforce Preparation in the Classroom&lt;/b&gt;.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt;Continue to &lt;b&gt;Session 2: Learning Objectives&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1511984308</timemodified>
+  </page>
+</activity>

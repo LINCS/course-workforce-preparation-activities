@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="159" moduleid="6307" modulename="book" contextid="24987">
+  <book id="159">
+    <name>Guide to ELA Classroom Activities that Promote Life Skills, College, and Career Readiness</name>
+    <intro>&lt;p&gt;INSERT DESCRIPTION HERE&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1495725996</timecreated>
+    <timemodified>1511984383</timemodified>
+    <chapters>
+      <chapter id="1145">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>ELA guide a rich compilation of materials for adult education practitioners </title>
+        <content>&lt;p&gt;The &lt;i&gt;&lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-864" target="_blank"&gt;Guide to ELA Classroom Activities that Promote Life Skills&lt;/a&gt;, College and Career Readiness&lt;/i&gt; (&lt;i&gt;ELA Guide&lt;/i&gt;) was also developed by a group of adult basic education and ESOL teachers and professional development specialists in Massachusetts. The working group drew on research from a variety of sources, including a study conducted by ATLAS, which informed their development of TIF. They also sought input from transition to college and workforce development stakeholders. The result is a rich compilation of materials for adult education practitioners in forms that can be immediately applied in classrooms.&lt;/p&gt;
+&lt;p&gt;This topic introduces the &lt;i&gt;ELA Guide&lt;/i&gt; and describes the key features.&lt;/p&gt;
+&lt;p&gt;&lt;img width="400" height="310" style="border: 1px solid black;" src="@@PLUGINFILE@@/Screenshot%20of%20First%20Page%20ELA%20Classroom%20Activities.png" alt="Screenshot of the first page of the Guide to ELA Classroom Activities document" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502807339</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1146">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Seven essential competencies align with workforce preparation activities</title>
+        <content>&lt;p&gt;Section IV of th&lt;span style="background-color: #ffffff;"&gt;e &lt;i&gt;ELA Guide&lt;/i&gt; i&lt;/span&gt;dentifies seven essential competencies and associated evidence-based indicators students need to succeed in college, workplace, and civic life. Like the TIF skill categories, these seven competencies align very well with workforce preparation skills. The &lt;span style="background-color: #ffffff;"&gt;&lt;i&gt;ELA Guide&lt;/i&gt; prov&lt;/span&gt;ides two tiers, or levels, of sample tasks for each of the seven competencies.&lt;/p&gt;
+&lt;h4&gt;Essential Competencies&lt;/h4&gt;
+&lt;div&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff;"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #333399;"&gt;&lt;strong&gt;Competency&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff;"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #333399;"&gt;&lt;strong&gt;Evidence-based Indicators&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: left;"&gt;
+&lt;p&gt;&lt;strong&gt;I. Collect, organize, and interpret information&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="312" valign="top" style="text-align: center;"&gt;
+&lt;p&gt;Comprehend/evaluate texts at level, take notes, summarize, report out&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: left;"&gt;
+&lt;p&gt;&lt;strong&gt;II. Share information and ideas with others&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff;"&gt;
+&lt;p&gt;Communicate, collaborate, present, use graphics and handouts&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: left;"&gt;
+&lt;p&gt;&lt;strong&gt;III. Solve problems&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Identify, name, and solve challenging problems&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: left;"&gt;
+&lt;p&gt;&lt;strong&gt;IV. Argue for points and negotiate among positions&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="312" valign="top" style="text-align: center;"&gt;
+&lt;p&gt;Present logical arguments, cite evidence/reasons, respect different views&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: left;"&gt;
+&lt;p&gt;&lt;strong&gt;V. Conduct activities in a professional manner&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Demonstrate civility and competence, be punctual, meet deadlines&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: left;"&gt;
+&lt;p&gt;&lt;strong&gt;VI. Plan and follow through on tasks&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="312" valign="top" style="text-align: center;"&gt;
+&lt;p&gt;Develop goals, determine realistic action steps, persist&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: left;"&gt;
+&lt;p&gt;&lt;strong&gt;VII. Demonstrate self-efficacy, self-advocacy, and self-direction&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Take responsibility for self, take initiative, secure assistance or support&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1503581604</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1147">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Key features of the ELA guide</title>
+        <content>&lt;p&gt;Some of the key features of the &lt;i&gt;ELA Guide&lt;/i&gt; are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Instructional tasks that students might perform to demonstrate the attainment of each competency. The instructional tasks can serve as targets for classroom instruction and activities.&lt;/li&gt;
+&lt;li&gt;Instructional tasks for each competency that are sorted into two tiers, each associated with a specific range of National Reporting System Educational Functioning and College and Career Readiness Standards levels.&lt;/li&gt;
+&lt;li&gt;Examples of competency-related tasks that are transferred across three contexts: life skills, college-based, and career-based.&lt;/li&gt;
+&lt;li&gt;Competencies and sample instructional tasks that tie to the College and Career Readiness Standards for ELA reflecting how instruction can prepare students for life and the workplace, as well as for academic advancement.&lt;/li&gt;
+&lt;li&gt;A Baseline Skills Index to track the sub-skills that are required for students to perform the instructional tasks successfully at any level.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div id="_com_2" language="JavaScript"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1501086645</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1148">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Explore the ELA guide</title>
+        <content>&lt;p&gt;Take a few moments to explore the &lt;i&gt;ELA Guide &lt;/i&gt;with these questions in mind. Record your notes in the next part of this course, a questionnaire called ELA Guide Reflection Questions. &lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Continue on to ELA Guide Reflection Questions.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502807399</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

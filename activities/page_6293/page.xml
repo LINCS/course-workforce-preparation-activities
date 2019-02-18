@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1408" moduleid="6293" modulename="page" contextid="24972">
+  <page id="1408">
+    <name>Session 1: Learning Objectives</name>
+    <intro>&lt;p&gt;Terminal Objectives (TOs) and Enabling Objectives (EOs)&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1 style="text-align: left;"&gt;Terminal Objectives (TOs) and Enabling Objectives (EOs)&lt;/h1&gt;
+&lt;h2 style="text-align: left;"&gt;&lt;span style="font-size: large;"&gt;Session 1: Workforce Innovation and Opportunity Act (WIOA) and Workforce Preparation&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;b&gt;TO: &lt;/b&gt;Understand what constitutes the workforce preparation activities referenced in WIOA and explain how to integrate them into adult education programming and instruction.&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;b&gt;EOs: &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;1-1: Explain the &lt;span class="nolink"&gt;importance of workforce preparation activities&lt;/span&gt; in achieving the goals of WIOA.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;1-2: Define workforce preparation activities.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;1-3: Describe the evidence that illustrates how workforce preparation activities align with and reinforce effective teaching strategies for deeper learning.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;1-4: Match sample lesson activities with the specific workforce preparation skills they illustrate.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Continue to Course Introduction.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt" style="text-align: left;"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>18</revision>
+    <timemodified>1511984107</timemodified>
+  </page>
+</activity>

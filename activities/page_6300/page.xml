@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1409" moduleid="6300" modulename="page" contextid="24980">
+  <page id="1409">
+    <name>Share Your Thoughts</name>
+    <intro>&lt;p&gt;NA&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h3 style="text-align: left;"&gt;Activity – Share Thoughts About Alignment and Intersections Among Skills Sets&lt;/h3&gt;
+&lt;p style="text-align: left;"&gt;Now that you have reviewed workforce preparation activities, please share your thoughts and read other teachers’ responses in the&lt;a href="https://community.lincs.ed.gov/discussion/online-course-introduction-workforce-preparation-activities-and-employability-skills" target="_blank"&gt; LINCS Career Pathways Group &lt;/a&gt;before moving on.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Which skills were not explicitly included in the workplace preparation activities discussed so far? Note that there is no “right” answer here. Be thoughtful about the alignments and intersections between the different skill sets.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;After you have shared your thoughts continue to Session 1: Conclusion&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt" style="text-align: left;"&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1511984263</timemodified>
+  </page>
+</activity>

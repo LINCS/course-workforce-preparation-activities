@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="161" moduleid="6311" modulename="book" contextid="24991">
+  <book id="161">
+    <name>Integrating Employability Skills: A Framework for All Educators</name>
+    <intro>&lt;p&gt;INSERT DESCRIPTION&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1495726839</timecreated>
+    <timemodified>1511984415</timemodified>
+    <chapters>
+      <chapter id="1153">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Review: Different Terms, Same Skills</title>
+        <content>&lt;p&gt;You’ve reviewed a set of four resources that you can use to incorporate workforce preparation activities. Each resource categorizes and labels similar sets of skills slightly differently. Overall, you’ll observe that despite the variations reflected in each resource, the actual skills and activities overlap substantially. This matrix shows how each of the resources and the skills it defines aligns with the Workforce Preparation Activities.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;b&gt;Different Terms, Same Skills: Mapping Workforce Preparation Activities Across the Resources&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" size="2" face="Verdana" color="#693300"&gt;Continue to Digital Literacy Resources.&lt;/span&gt;&lt;/p&gt;
+&lt;table align="center" style="border: 1px solid #000000; background-color: #ffffff;" border="1" rules="all" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;&lt;/thead&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080; background-color: #ffffff;"&gt;&lt;b&gt;Workforce Preparation&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080;"&gt;&lt;b&gt;&lt;span class="nolink"&gt;Employability Skills Framework&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080;"&gt;&lt;b&gt;Transition Integration Framework (TIF)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080;"&gt;&lt;b&gt;ELA Guide&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080;"&gt;&lt;b&gt;NC – NET Toolkit&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Basic Academic Skills&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Applied Academic&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Adaptability and lifelong learning?&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Critical Thinking&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Critical Thinking&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Critical Thinking&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Solve Problems&lt;/p&gt;
+&lt;p&gt;Argue for points and negotiate among positions&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Problem Solving and decision making&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Digital Literacy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Using Technology&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Self-Management&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Personal Qualities&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Self-management Learning Strategies&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Plan and follow through on tasks&lt;/p&gt;
+&lt;p&gt;Demonstrate self-efficacy, self-advocacy, direction&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Initiative and dependability&lt;/p&gt;
+&lt;p&gt;Adaptability and lifelong learning?&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Utilizing Resources&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Managing Resources&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Using Information&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Information Use&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Collect organize, interpret information&lt;/p&gt;
+&lt;p&gt;Share information and ideas with others&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Communication&lt;/p&gt;
+&lt;p&gt;Information processing&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Working with Others&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Interpersonal Skills, Communication&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Effective Communication&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Share information and ideas with others&lt;/p&gt;
+&lt;p&gt;Argue for points and negotiate among positions&lt;/p&gt;
+&lt;p&gt;Solve problems&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Interpersonal skills and teamwork&lt;/p&gt;
+&lt;p&gt;Communication&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Understanding Systems&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Systems Thinking&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Navigating Systems&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Transition and Other Employability Skills&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Developing a Future Pathway&lt;/p&gt;
+&lt;p&gt;Learning Strategies&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Conduct activities in a professional manner&lt;/p&gt;
+&lt;p&gt;Demonstrate self-efficacy, self-advocacy, and direction&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Integrity and professionalism&lt;/p&gt;
+&lt;p&gt;Entrepreneurship&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1508863341</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

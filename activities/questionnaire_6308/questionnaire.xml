@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="83" moduleid="6308" modulename="questionnaire" contextid="24988">
+  <questionnaire id="83">
+    <course>168</course>
+    <name>ELA Guide Reflection Questions</name>
+    <intro>&lt;p&gt;When you've completed this questionnaire continue on to NC-NET Employability Skills Resource Toolkit or click the link on the left side navigation. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>0</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>1</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>83</sid>
+    <timemodified>1490904992</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>1</autonum>
+    <surveys>
+      <survey id="83">
+        <name>ELA Guide Reflection Questions</name>
+        <owner>168</owner>
+        <realm>private</realm>
+        <status>0</status>
+        <title>ELA Guide Reflection Questions</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info>&lt;p&gt;When you have answered all the questions in the questionnaire, click submit &amp;gt; continue, so you may view your responses and print them. &lt;/p&gt;
+&lt;p&gt;Once you have reviewed and printed your responses, continue on to NC-NET Employability Skills Resource Toolkit or click the link on the left side navigation.&lt;/p&gt;</info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head></thank_head>
+        <thank_body></thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="1120">
+            <survey_id>83</survey_id>
+            <name></name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>&lt;p&gt;List the Seven Skill Categories &lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="1121">
+            <survey_id>83</survey_id>
+            <name></name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>2</position>
+            <content>&lt;p&gt;Which tier reflects the level that would be most appropriate for your students?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="1122">
+            <survey_id>83</survey_id>
+            <name></name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>0</precise>
+            <position>3</position>
+            <content>&lt;p&gt;Locate three College and Career Readiness Standards that you are currently addressing in your class, and review the tasks associated with them. Note ideas you have for incorporating these activities into your lessons.&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <attempts>
+    </attempts>
+  </questionnaire>
+</activity>

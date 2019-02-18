@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="158" moduleid="6305" modulename="book" contextid="24985">
+  <book id="158">
+    <name>Transitions Integration Framework</name>
+    <intro>&lt;p&gt;INSERT DESCRIPTION HERE&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1495724786</timecreated>
+    <timemodified>1511984363</timemodified>
+    <chapters>
+      <chapter id="1141">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>TIF provides guidance on integrating transition skills to ABE</title>
+        <content>&lt;p&gt;The &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-763" target="_blank" style="font-size: 13px; font-weight: normal;"&gt;Transitions Integration Framework&lt;/a&gt;&lt;span style="font-size: 13px; font-weight: normal;"&gt;, or&lt;/span&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;i&gt;TIF&lt;/i&gt;,&lt;/span&gt;&lt;span style="font-size: 13px; font-weight: normal;"&gt; was developed by the ABE Teaching and Learning Advancement System (ATLAS) at the Hamline University School of Education in Minnesota. TIF is the outcome of a collaborative of adult basic education and ESOL teachers and professional development specialists, with the goal of advancing transitions instruction in Minnesota.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Like the &lt;span class="nolink"&gt;Employability Skills Framework&lt;/span&gt;, TIF provides guidance to adult educators on how to integrate transition skills—essential academic, career, and employability skills—into all levels of adult basic education (ABE).&lt;/p&gt;
+&lt;p&gt;This topic introduces TIF and describes training materials and key features.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="400" height="516" style="margin-right: NaNpx; margin-left: NaNpx; display: block;" src="@@PLUGINFILE@@/TIF%20Document%20Screenshot_Storyboard.png" alt="Screenshot of first page of the Transitions Integration Framework" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1501086366</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1142">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>TIF's six essential professional skills align with workforce preparation activities</title>
+        <content>&lt;p&gt;TIF identifies six categories of essential professional skills that are well-aligned with workforce preparation activities. For each category, the skills and subskills are outlined in terms of observable behavior that indicates students have obtained the skill. The acronym &lt;b&gt;SWBAT&lt;/b&gt;, which stands for “students will be able to,” precedes each skill, followed by a description of what the performance of that skill looks like. Read an example of one skill in the Navigating Systems category, below.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h2&gt;TIF AT a Glance&lt;/h2&gt;
+&lt;h3&gt;Navigating Systems (NS)&lt;/h3&gt;
+&lt;h2&gt;&lt;img src="@@PLUGINFILE@@/TIF%20at%20a%20Glance.png" width="500" height="222" alt="The top portion of page 56 of the TIF At A Glance document, describing the Navigating Systems skill and showing an example." /&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;In aggregate, the skills in all six categories reflect a comprehensive inventory of essential skills that adult educators need to integrate into their instruction to help learners transition successfully to postsecondary education, career training, and the workplace.&lt;/p&gt;
+&lt;p&gt;&lt;img width="345" height="405" src="@@PLUGINFILE@@/Clipboard%20of%20TIF%20Skills%20Categories%20Screenshot_7-11.png" style="vertical-align: text-bottom;" alt="Clipboard with a list of TIF Skills Categories: 1. effective communication, 2. learning strategies, 3. critical thinking, 4. self-management, 5. developing a future pathway, 6. navigating systems" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1501252422</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1143">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Key features of TIF</title>
+        <content>&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;" face="Calibri" size="3"&gt;Some of the key features of TIF are:&lt;/span&gt;&lt;/p&gt;
+&lt;ul type="disc"&gt;
+&lt;li&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;Sample classroom activities (not full lessons) for each of the six skill categories and a subset of the skills;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;Sample activities along a continuum of three levels of increasing complexity but not tied to specific educational functioning levels;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;Examples for integrating technology into activities. The technology activities are also presented on a continuum of complexity;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;Guidance on how the sample activities can be modified to apply the skills to community, school, and work contexts;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;A table illustrating the alignment between TIF skills and the College and Career Readiness Standards; and&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;An “At-a-Glance” checklist (pg. 49) to guide curriculum planning. It can als&lt;/span&gt;o serve as a tool for students to help identify needed skills and track progress towards skill attainment.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="graybox"&gt;
+&lt;h2&gt;More Information&lt;/h2&gt;
+&lt;p&gt;ATLAS provides a variety of additional &lt;a href="http://atlasabe.org/professional/transitions" target="_blank"&gt;Academic, Career &amp;amp; Employability (ACES) resources&lt;/a&gt; to help teachers apply TIF, including sample lessons, webinars, and videos. Explore the video below, for an example of instruction for the effective communication skill in an intermediate English Language Learner (ELL) classroom.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8THiz6-f6Hg&amp;amp;list=PL-NrZkT8VAsakjdQms-r7pwYmonTTPFup&amp;amp;index=5"&gt;https://www.youtube.com/watch?v=8THiz6-f6Hg&amp;amp;list=PL-NrZkT8VAsakjdQms-r7pwYmonTTPFup&amp;amp;index=5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502807224</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1144">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Explore the transitions integration framework and resources</title>
+        <content>&lt;p&gt;Take a few moments to explore &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-763"&gt;TIF&lt;/a&gt; with these questions in mind. Record your notes in this writeable, printable Questionnaire.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" color="#693300" face="Verdana" size="2"&gt;After you have completed this learning activity, continue on to the questionnaire: &lt;a href="$@QUESTIONNAIREVIEWBYID*6306@$"&gt;Transitions Integrations Framework (TIF) and Resources Reflection Questions&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;a href="$@QUESTIONNAIREVIEWBYID*6306@$"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/a&gt;&lt;br clear="all" /&gt;&lt;a href="$@QUESTIONNAIREVIEWBYID*6306@$"&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1502807247</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

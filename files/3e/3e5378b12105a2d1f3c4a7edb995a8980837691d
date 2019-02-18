@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta charset="utf-8">
+  <title>CoffeeCup Image Mapper map file</title>
+  <meta name="generator" content="CoffeeCup Image Mapper">
+</head>
+<body>
+
+<!-- Created by CoffeeCup Image Mapper (www.coffeecup.com) -->
+
+<!-- Beginning of CoffeeCup Image Map -->
+<img src="OverallGraphic_Web Size.jpg" usemap="#overallgraphic_web size" border=0>
+<map name="overallgraphic_web size">
+  <area name="Basic Academic Skills" shape="rect" coords="3,25,469,70" href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3276&chapterid=1029"  alt="Link to Basic Academic Skills" title="Link to Basic Academic Skills" OnMouseOver="window.status='Basic Academic Skils'; return true" OnMouseOut="window.status=''; return true" target="_top">
+  <area name="Critical Thinking Skills" shape="rect" coords="3,77,151,140" href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3276&chapterid=1032"  alt="Link to Crtical Thinking Skills" title="Link to Crtical Thinking Skills" OnMouseOver="window.status='Critical Thinking Skills'; return true" OnMouseOut="window.status=''; return true" target="_top">
+  <area name="Digital Literacy" shape="rect" coords="160,78,311,141" href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3276&chapterid=1035"  alt="Link to Digital Literacy Skills Section" title="Link to Digital Literacy Skills Section" OnMouseOver="window.status='Digital  Literacy'; return true" OnMouseOut="window.status=''; return true" target="_top">
+  <area name="Self-Management" shape="rect" coords="320,76,473,145" href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3276&chapterid=1038"  alt="Link to Self-Management Skills" title="Link to Self-Management Skills" OnMouseOver="window.status='Self-Management'; return true" OnMouseOut="window.status=''; return true" target="_top">
+  <area shape="rect" coords="4,174,113,235" href=""  alt="" title="">
+  <area shape="rect" coords="119,175,230,235" href=""  alt="" title="">
+  <area shape="rect" coords="237,174,347,236" href=""  alt="" title="">
+  <area shape="rect" coords="353,175,474,233" href=""  alt="" title="">
+  <area shape="rect" coords="3,240,470,290" href=""  alt="" title="">
+  <area shape="default" href="https://lincs-ovae-moodle-dev.civicactions.net/course/view.php?id=101#section-0" target="_self">
+</map>
+<!-- End of CoffeeCup Image Map -->
+</body>
+</html>
